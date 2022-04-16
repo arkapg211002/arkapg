@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/30/52/13/3052136d9b22f4bb60d8457821d81290.gif" align="center" style="width: 100%" />
 </div>  
   
-## *<div align="center">I'm ARKAPRATIM, a web developer 👨‍💻 cloud ☁️ and Blockchain ⛓️ enthusiast</div>*  
+## *<div align="center">I'm ARKAPRATIM, a Web Developer 👨‍💻 Cloud ☁️ and Blockchain ⛓️ enthusiast</div>*  
 
 <table align="center"><tr>
 <td><div align="center">
