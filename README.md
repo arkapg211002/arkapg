@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://img.freepik.com/free-vector/golf-course-with-green-grass-pond-sunset_107791-6976.jpg?t=st=1650100026~exp=1650100626~hmac=36a8faf7f5a60ea9fa31531293f207044c8a1857215504c45775bda57d2446f6&w=1380" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/30/52/13/3052136d9b22f4bb60d8457821d81290.gif" align="center" style="width: 100%" />
 </div>  
   
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" align="center" style="width: 20%" />
 </div>  
   
 
@@ -24,7 +24,16 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr>
+  
+  
+   <td valign="top" width="33%">
+  <div align="center">
+<img src="https://4db32cf36e284b6db016-ad73e30e75b87c0c9aedc3f926a99c84.ssl.cf3.rackcdn.com/wp-content/uploads/2019/11/giphy-6.gif" align="center" style="width: 100%" />
+</div>  
+  </td>
+  
+  <td valign="top" width="33%">
 
 
 
@@ -62,12 +71,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
+</td></table>
 <br/>  
 
 
@@ -104,7 +108,9 @@
 
 <br/>  
 
-  
+<div align="center">
+<img src="https://i.pinimg.com/originals/ef/a9/39/efa9396fe51653bc074f75d2252692d0.gif" align="center" style="width: 100%" />
+</div>  
 
 <br/>  
 
