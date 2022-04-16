@@ -2,11 +2,14 @@
 <img src="https://i.pinimg.com/originals/30/52/13/3052136d9b22f4bb60d8457821d81290.gif" align="center" style="width: 100%" />
 </div>  
   
-<div align="center">
-<img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" align="center" style="width: 20%" />
-</div>  
-  
 ## *<div align="center">I'm ARKAPRATIM, a web developer 👨‍💻 cloud ☁️ and Blockchain ⛓️ enthusiast</div>*  
+
+<table align="center"><tr>
+<td><div align="center">
+<img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" align="center" style="width: 50%" />
+</div> </td>
+<td>
+<div align="left">
   
 - 🌱 I’m currently learning Cloud Computing and UI  
   
@@ -15,6 +18,11 @@
 - ⚡ Fun fact: I use tabs over spaces
   
 - 📫 How to reach me **arkapratimghosh2002@gmail.com**
+  
+<div>
+</td>
+</tr>
+</table>
 <br/>  
 
  ### My Skill Set
