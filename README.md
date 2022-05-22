@@ -74,19 +74,26 @@
 
 ## Connect with me  
 <p align="center">
-<a href="https://codepen.io/arkapratim ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arkapratim ghosh" height="30" width="40" /></a>
-<a href="https://dev.to/arkapratim ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arkapratim ghosh" height="30" width="40" /></a>
+
+
 <a href="https://linkedin.com/in/arkapratim ghosh✌️😀" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkapratim ghosh✌️😀" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arkapratim ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arkapratim ghosh" height="30" width="40" /></a>
+
 <a href="https://www.facebook.com/profile.php?id=100073622645041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arkapratim ghosh" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/arkapratimghosh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arkapratimghosh2002" height="30" width="40" /></a>
-<a href="https://medium.com/@arkapratimghosh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arkapratimghosh2002" height="30" width="40" /></a>
+  
 <a href="https://www.youtube.com/c/1058_arkapratim ghosh_cse_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="1058_arkapratim ghosh_cse_b" height="30" width="40" /></a>
+  
 <a href="https://www.codechef.com/users/arkapg211002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arkapg211002" height="30" width="40" /></a>
+  
 <a href="https://www.hackerrank.com/arkapratimghosh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arkapratimghosh2" height="30" width="40" /></a>
+  
 <a href="https://codeforces.com/profile/arkapg211002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arkapg211002" height="30" width="40" /></a>
+  
 <a href="https://www.leetcode.com/arka2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arka2002" height="30" width="40" /></a>
+  
 <a href="https://auth.geeksforgeeks.org/user/arkapratimghosh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arkapratimghosh2002" height="30" width="40" /></a>
+  
 </p>
 <br/>  
 
