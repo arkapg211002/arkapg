@@ -12,8 +12,6 @@
 <div align="center"><h2><b>I'm ARKAPRATIM, a Web Developer 👨‍💻 Cloud ☁️ and Blockchain ⛓️ enthusiast</b></h2></div>
 <div align="left">
   
-- 🌱 I’m currently learning Cloud Computing and UI  
-  
 - 💖 I like coding and exploring new things  
   
 - ⚡ Fun fact: I use tabs over spaces
