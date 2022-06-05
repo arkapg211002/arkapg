@@ -1,9 +1,11 @@
+
+<!--ARKAPRATIM GHOSH-->
 <div align="center">
 <img src="https://i.pinimg.com/originals/30/52/13/3052136d9b22f4bb60d8457821d81290.gif" align="center" style="width: 100%" />
 </div>  
   
 
-
+<!--iNTRODUCTION-->
 <table align="center"><tr>
 <td><div align="center">
 <img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" align="center" style="width: 90%" />
@@ -25,7 +27,7 @@
 <br/>
  <br/>
 
- 
+<!--MY SKILL SET--> 
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text.gif" align="center" style="width: 100%" />
 </div>  
@@ -77,13 +79,12 @@
 <br/>
 <br/>
 
-
+<!--cONNECT WITH ME-->
  <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(2).gif" align="center" style="width: 100%" />
 </div>  
 
-  
-<p align="center">
+  <p align="center">
 
   <table align="center"><tr>
 <td><div align="center">
@@ -118,7 +119,7 @@
 </p>
 <br/>  <br/>
 
-
+<!--GITHUB STATS-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(1).gif" align="center" style="width: 100%" />
 </div>  
@@ -148,29 +149,23 @@
 <br/> 
 <br/>
 
-
+<!--SNAKE EATING CONTRIBUTION GRAPH-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(3).gif" align="center" style="width: 100%" />
 </div>  
-
-
 
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/output/github-contribution-grid-snake.gif" align="center" style="width: 100%" />
 </div>  
 <br/> 
 
-
-
-
-
-
+<!--END GIF-->
 <div align="center">
 <img src="https://i.pinimg.com/originals/ef/a9/39/efa9396fe51653bc074f75d2252692d0.gif" align="center" style="width: 100%" />
 </div>  
 <br/>  
 
-  
+<!--PROFILE VIEWS-->  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=arkapg211002&&style=flat-square" align="center" />
 </div>  
