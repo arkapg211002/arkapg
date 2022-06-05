@@ -217,7 +217,9 @@
 <br/>  
 
 <!--PROFILE VIEWS-->  
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=arkapg211002&&style=flat-square" align="center" />
-</div>  
+<img src="https://komarev.com/ghpvc/?username=arkapg211002&&style=flat-square" align="center" style="width: 30%"/>
+</div> 
+
 
