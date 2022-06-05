@@ -55,7 +55,12 @@
   
 <td valign="top" width="33%">
   
-### FRONTEND
+<!-- FRONTEND-->
+
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(4).gif" align="center" style="width: 100%" />
+</div>  
+  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
