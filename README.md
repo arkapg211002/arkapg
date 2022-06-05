@@ -22,13 +22,14 @@
 </td>
 </tr>
 </table>
-<br/>  
+<br/>
+ <br/>
 
  
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text.gif" align="center" style="width: 100%" />
 </div>  
-<br/> 
+
   
 <table><tr>
 <td valign="top" width="33%">
@@ -73,13 +74,14 @@
 </div>
 </td>
 </table>
-<br/>  
+<br/>
+<br/>
 
 
  <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(2).gif" align="center" style="width: 100%" />
 </div>  
-<br/> 
+
   
 <p align="center">
 
@@ -114,13 +116,13 @@
     </tr>
   </table>
 </p>
-<br/>  
+<br/>  <br/>
 
 
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(1).gif" align="center" style="width: 100%" />
 </div>  
-<br/> 
+
 
 <table align="center"><tr><td valign="top" width="30%">
 <div align="center"><img src="https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif" align="center" style="width: 100%" /></div>  </td>
@@ -144,13 +146,13 @@
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/profile-3d-contrib/profile-night-green.svg" align="center" style="width: 100%" />
 </div>  
 <br/> 
-
+<br/>
 
 
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(3).gif" align="center" style="width: 100%" />
 </div>  
-<br/> 
+
 
 
 <div align="center">
