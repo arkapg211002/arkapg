@@ -107,7 +107,12 @@
 <br/>  
 
 ## GITHUB STATS
+<table align="center"><tr><td valign="top" width="30%">
+<div align="center"><img src="https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif" align="center" style="width: 100%" /></div>  </td>
+<td valign="top" width="60%">
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkapg211002&" alt="arkapg211002" /></p>
+</td></table>
+  
 <table align="center"><tr><td valign="top" width="60%">
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arkapg211002&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  </td>
 <td valign="top" width="60%">
