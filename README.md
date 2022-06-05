@@ -135,7 +135,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arkapg211002&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  </td>
 <td valign="top" width="60%">
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkapg211002&hide_border=true&layout=compact" align="center" style="width: 100% height:100%" /></div>  </td></table>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkapg211002" alt="arkapg211002" /></a> </p>
+
+<div align="center">
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=arkapg211002&theme=onedark)](https://github.com/arkapg211002/github-profile-trophy)-->
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkapg211002&theme=onedark" alt="arkapg211002" align="center" style="width: 90%" /></a> </div>
 <br/>  
 
 <div align="center">
