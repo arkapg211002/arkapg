@@ -11,14 +11,29 @@
 <img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" align="center" style="width: 90%" />
 </div> </td>
 <td>
-<div align="center"><h2><b>I'm ARKAPRATIM, a Web Developer 👨‍💻 Cloud ☁️ and Blockchain ⛓️ enthusiast</b></h2></div>
+<div align="center"><h2><!--<b>I'm ARKAPRATIM, a Web Developer 👨‍💻 Cloud ☁️ and Blockchain ⛓️ enthusiast</b>-->
+  
+  <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(6).gif" align="center" style="width: 90%" />
+  <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(7).gif" align="center" style="width: 90%" />
+  <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(8).gif" align="center" style="width: 90%" />
+  <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(9).gif" align="center" style="width: 90%" />
+  <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(10).gif" align="center" style="width: 90%" />
+  <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(11).gif" align="center" style="width: 90%" />
+  
+  
+  
+  
+  
+  
+  
+  </h2></div>
 <div align="left">
   
-- 💖 I like coding and exploring new things  
+  - 💖<b> I like coding and exploring new things  </b>
   
-- ⚡ Fun fact: I use tabs over spaces
+  - ⚡ <b>Fun fact: I use tabs over spaces</b>
   
-- 📫 How to reach me **arkapratimghosh2002@gmail.com**
+  - 📫 <b>How to reach me **arkapratimghosh2002@gmail.com**</b>
   
 <div>
 </td>
