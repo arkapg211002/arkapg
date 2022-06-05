@@ -24,11 +24,11 @@
 </table>
 <br/>  
 
- ### My Skill Set
+ ### MY SKILL SET
 <table><tr>
 <td valign="top" width="33%">
 
-### Backend  
+### BACKEND
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
@@ -47,7 +47,7 @@
   
 <td valign="top" width="33%">
   
-### Frontend  
+### FRONTEND
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -70,7 +70,7 @@
 </table>
 <br/>  
 
-## Connect with me  
+## CONNECT WITH ME
 <p align="center">
 
   <table align="center"><tr>
@@ -106,7 +106,7 @@
 </p>
 <br/>  
 
-## Github Stats  
+## GITHUB STATS
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkapg211002&" alt="arkapg211002" /></p>
 <table align="center"><tr><td valign="top" width="60%">
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arkapg211002&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  </td>
@@ -115,7 +115,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkapg211002" alt="arkapg211002" /></a> </p>
 <br/>  
 
-## See Snake Eating My Contribution Graph
+## SEE SNAKE EATING MY CONTRIBUTION GRAPH
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/output/github-contribution-grid-snake.gif" align="center" style="width: 100%" />
 </div>  
