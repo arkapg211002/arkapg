@@ -19,13 +19,6 @@
   <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(9).gif" align="center" style="width: 90%" />
   <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(10).gif" align="center" style="width: 90%" />
   <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(11).gif" align="center" style="width: 90%" />
-  
-  
-  
-  
-  
-  
-  
   </h2></div>
 <div align="left">
   
@@ -213,6 +206,9 @@
 <img src="https://github.com/arkapg211002/arkapg211002/blob/output/github-contribution-grid-snake.gif" align="center" style="width: 100%" />
 </div>  
 <br/> 
+
+
+
 
 <!--END GIF-->
 <div align="center">
