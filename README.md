@@ -24,7 +24,12 @@
 </table>
 <br/>  
 
- ### MY SKILL SET
+ 
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text.gif" align="center" style="width: 100%" />
+</div>  
+<br/> 
+  
 <table><tr>
 <td valign="top" width="33%">
 
