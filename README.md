@@ -75,7 +75,12 @@
 </table>
 <br/>  
 
-## CONNECT WITH ME
+
+ <div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(2).gif" align="center" style="width: 100%" />
+</div>  
+<br/> 
+  
 <p align="center">
 
   <table align="center"><tr>
