@@ -1,9 +1,10 @@
 
 <!--ARKAPRATIM GHOSH-->
+<!--https://github.com/arkapg211002/arkapg211002/blob/main/16555412391119880693modified.gif-->
 <div align="center">
-<img src="https://github.com/arkapg211002/arkapg211002/blob/main/16555412391119880693modified.gif" align="center" style="width:180%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/16555412391119880693modified2.gif" align="center" style="width:180%" />
 </div>  
-
+<!--https://github.com/arkapg211002/arkapg211002/blob/main/16555412391119880693modified2.gif-->
 
 <!--iNTRODUCTION-->
 <table align="center"><tr>
