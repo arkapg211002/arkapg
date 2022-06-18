@@ -28,8 +28,8 @@ jobs:
       #     key: ${{ secrets.key }}
       - name: Git Config
         run: |
-          git config user.name Sabyasachi-Seal
-          git config user.email yoboy907@gmail.com
+          git config user.name arkapg211002
+          git config user.email arkapratimghosh2002@gmail.com
           git pull
       - name: Update Cron
         run: |
