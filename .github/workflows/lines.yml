@@ -1,0 +1,22 @@
+name: LOC
+
+on:
+  # push:
+  #   branches:
+  #     - main
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Main Workflow 
+    steps:
+      - name: Lines of code changed
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_lines: yes
