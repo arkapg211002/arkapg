@@ -1,12 +1,28 @@
 name: Compact display
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.achievements.compact.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, activity, community, repositories, metadata
-  plugin_achievements: yes
-  plugin_achievements_only: >-
-    polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-    scripter, packager, explorer, infographile, manager
-  plugin_achievements_display: compact
-  plugin_achievements_threshold: X
+on:
+  schedule:
+      # every 6 hours
+    - cron: "0 */6 * * *"
+    
+# The sequence of runs in this workflow:
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: lowlighter/metrics@latest
+        with:
+         filename: metrics.plugin.achievements.compact.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: header, activity, community, repositories, metadata
+         plugin_achievements: yes
+         plugin_achievements_only: >-
+              polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+              scripter, packager, explorer, infographile, manager
+         plugin_achievements_display: compact
+         plugin_achievements_threshold: X
