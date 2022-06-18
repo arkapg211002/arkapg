@@ -64,13 +64,14 @@
 
 <!--EDUCATION-->
 <div align="center">
-<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/texted.gif" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/texted.gif" align="center" style="width: 120%" />
 </div>
 
 <table><tr>
 <td valign="top" width="23%">
 <!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
 <div align="center">  
+<img style="margin: 10px" src="https://github.com/arkapg211002/arkapg211002/blob/main/imgonline-com-ua-twotoone-maM214R0M8RtDOt.jpg" alt="PMI" height="55" />
 <img style="margin: 10px" src="https://github.com/arkapg211002/arkapg211002/blob/main/tmsl-logo-PhotoRoom.png" alt="TMSL" height="55" />
 <img style="margin: 10px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" height="55" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" height="55" />  
@@ -114,9 +115,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
+<img style="margin: 10px" src="https://nativescript.org/images/0tw5g4s3bv4xoxr6espf.png" alt="NPM" height="55" />  
+<img style="margin: 10px" src="https://ajeetchaulagain.com/static/a3d362eac404a6b6e3046f8fc681392c/92a94/express-js.png" alt="Express.js" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="95" />  
+<img style="margin: 10px" src="https://lightsprocket.net/wp-content/uploads/2015/08/command_prompt.png" alt="Terminal" height="95" />  
 </div>
 </td>
   
@@ -152,6 +154,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
+<img style="margin: 10px" src="https://pngmind.com/wp-content/uploads/2019/08/Inkscape-Logo-Png.jpg" alt="Inkscape" height="50" /> 
+<img style="margin: 10px" src="https://pnggrid.com/wp-content/uploads/2021/05/Canva-Logo-Transparent-1536x1536.png" alt="Canva" height="50" /> 
 </div>
 </td>
 </table>
