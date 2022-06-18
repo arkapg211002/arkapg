@@ -327,7 +327,12 @@
 <img src="https://github.com/arkapg211002/arkapg211002/blob/output/github-contribution-grid-snake.gif" align="center" style="width: 100%" />
 </div>  
 <br/> 
+</br>
 
+<!--JOKE-->
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/textjoke.gif" align="center" style="width: 100%" />
+</div> 
 
 
 
