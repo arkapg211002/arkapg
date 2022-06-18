@@ -299,6 +299,8 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkapg211002&theme=onedark" alt="arkapg211002" align="center" style="width: 90%" /></a> </div>
 <br/>  
 
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkapg211002&theme=vue" align="center" style="width: 100%" /></div></br>
+
 <div align="center">
 <a href="https://github.com/arkapg211002/github-readme-activity-graph"><img alt="MY ACTIVITY GRAPH" src="https://activity-graph.herokuapp.com/graph?username=arkapg211002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </div>  
@@ -345,3 +347,9 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=arkapg211002&&style=flat-square" align="center" style="width: 30%"/>
 </div> 
+</br>
+
+<div align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" align="center" style="width: 30%"/>
+</div> 
+
