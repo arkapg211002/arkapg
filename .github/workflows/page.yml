@@ -1,0 +1,25 @@
+name: Page
+
+on:
+  # push:
+  #   branches:
+  #     - main
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Main Workflow 
+    steps:
+      - name: Detailed report
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.pagespeed.detailed.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: NOT_NEEDED
+          plugin_pagespeed_url: https://github.com/arkapg211002
