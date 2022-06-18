@@ -236,6 +236,47 @@
 </p>
 <br/>  <br/>
 
+
+
+<!--Workspace-->
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/textworkspace.gif" align="center" style="width: 120%" />
+</div>
+
+<table><tr>
+<td valign="top" width="20%">
+<!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" alt="LENOVO" height="50" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="WINDOWS" height="50" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="UBUNTU" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="ANDROID" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="CHROME" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="EDGE" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YOUTUBE" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="SPOTIFY" height="50" />  
+</div>
+</td>
+  
+<td valign="top" width="33%">
+
+  <div align="center">
+<img src="https://cdn.dribbble.com/users/949964/screenshots/5289721/coffeegif.gif" align="center" style="width: 100%" />
+</div>
+  </td>
+  
+  </tr>
+</table>
+</br>
+</br>
+
+
+
+
+
+
+
+
 <!--GITHUB STATS-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(1).gif" align="center" style="width: 100%" />
