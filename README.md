@@ -349,13 +349,14 @@
 </div> 
 
 <!--PROFILE VIEWS-->  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=arkapg211002&&style=flat-square" align="center" style="width: 30%"/>
+<div align="left">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" align="left" style="width: 30%"/>
+</div>
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=arkapg211002&&style=flat-square" align="right" style="width: 33%"/>
 </div> 
 </br>
 
-<div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" align="center" style="width: 30%"/>
-</div> 
+
+ 
 
