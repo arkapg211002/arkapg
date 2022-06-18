@@ -224,7 +224,7 @@
 <!--![Jokes Card](https://readme-jokes.vercel.app/api)-->
 
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api" align="center" style="width: 90%"/>
+<img src="https://readme-jokes.vercel.app/api" align="center" style="width: 100%"/>
 </div> 
 
 <!--PROFILE VIEWS-->  
