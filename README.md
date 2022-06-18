@@ -60,10 +60,43 @@
   
 <br/>
  <br/>
+</br>
+
+<!--EDUCATION-->
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/texted.gif" align="center" style="width: 100%" />
+</div>
+
+<table><tr>
+<td valign="top" width="33%">
+<!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" height="75" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" height="75" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodecamp" height="75" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="75" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" height="75" />  
+</div>
+</td>
+  
+<td valign="top" width="33%">
+
+  <div align="center">
+<img src="https://cdn.dribbble.com/users/1681709/screenshots/4735856/gif.gif" align="center" style="width: 100%" />
+</div>
+  </td>
+  </tr>
+</table>
+</br>
+</br>
+  
+  
+  
+  
 
 <!--MY SKILL SET--> 
 <div align="center">
-<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text.gif" align="center" style="width: 100%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/textskillset.gif" align="center" style="width: 100%" />
 </div>  
 
   
