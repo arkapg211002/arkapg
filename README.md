@@ -71,13 +71,13 @@
 <td valign="top" width="20%">
 <!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/arkapg211002/arkapg211002/blob/main/imgonline-com-ua-twotoone-maM214R0M8RtDOt.jpg" alt="PMI" height="55" />
-<img style="margin: 10px" src="https://github.com/arkapg211002/arkapg211002/blob/main/tmsl-logo-PhotoRoom.png" alt="TMSL" height="55" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" height="55" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" height="55" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodecamp" height="55" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="55" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" height="55" />  
+<img style="margin: 10px" src="https://github.com/arkapg211002/arkapg211002/blob/main/imgonline-com-ua-twotoone-maM214R0M8RtDOt.jpg" alt="PMI" height="50" />
+<img style="margin: 10px" src="https://github.com/arkapg211002/arkapg211002/blob/main/tmsl-logo-PhotoRoom.png" alt="TMSL" height="50" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodecamp" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" height="50" />  
 </div>
 </td>
   
