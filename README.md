@@ -58,13 +58,13 @@
   </table>
   
   
-<br/>
- <br/>
+</br>
+ 
 </br>
 
 <!--EDUCATION-->
 <div align="center">
-<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/texted.gif" align="center" style="width: 120%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/texted2.gif" align="center" style="width: 120%" />
 </div>
 
 <table><tr>
@@ -299,12 +299,13 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkapg211002&theme=onedark" alt="arkapg211002" align="center" style="width: 90%" /></a> </div>
 <br/>  
 
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkapg211002&theme=vue" align="center" style="width: 100%" /></div></br>
+
 
 <div align="center">
 <a href="https://github.com/arkapg211002/github-readme-activity-graph"><img alt="MY ACTIVITY GRAPH" src="https://activity-graph.herokuapp.com/graph?username=arkapg211002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </div>  
 <br/> 
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkapg211002&theme=vue" align="center" style="width: 100%" /></div></br>
 
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/profile-3d-contrib/profile-night-green.svg" align="center" style="width: 100%" />
