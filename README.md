@@ -1,9 +1,9 @@
 
 <!--ARKAPRATIM GHOSH-->
 <div align="center">
-<img src="https://th.bing.com/th/id/R.c8e652aaeb508fd91677462fcad7ffb2?rik=930SvJctrgmHVA&riu=http%3a%2f%2fs3.amazonaws.com%2ffiverr.com%2fdeliveries%2f614353%2flarge%2fweb-banner-design-header_ws_1369117576.gif%3f1369117576&ehk=jGGj6bTRPXRkgAIHUDelx9JPvvmaSRV5s2B3BRQu2fk%3d&risl=&pid=ImgRaw&r=0" align="center" style="width:180%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/16555412391119880693modified.gif" align="center" style="width:180%" />
 </div>  
-  <!--https://i.pinimg.com/originals/30/52/13/3052136d9b22f4bb60d8457821d81290.gif-->
+
 
 <!--iNTRODUCTION-->
 <table align="center"><tr>
