@@ -329,6 +329,11 @@
 </br>
 
 <div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.code.svg" align="center" style="width: 100%" />
+</div>
+</br>
+
+<div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/followers.svg" align="center" style="width: 100%" />
 </div>
 </br>
