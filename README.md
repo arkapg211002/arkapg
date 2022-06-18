@@ -254,7 +254,7 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="CHROME" height="49" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="EDGE" height="49" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YOUTUBE" height="49" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="SPOTIFY" height="49" />  
+ 
 </div>
 </td>
   
