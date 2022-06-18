@@ -20,5 +20,5 @@ jobs:
             token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_code: yes
-            plugin_code_languages: javascript, typescript
+            plugin_code_languages: java, C
             plugin_code_load: 400
