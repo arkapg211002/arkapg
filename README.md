@@ -214,12 +214,21 @@
 <div align="center">
 <img src="https://i.pinimg.com/originals/ef/a9/39/efa9396fe51653bc074f75d2252692d0.gif" align="center" style="width: 100%" />
 </div>  
-<br/>  
+
+<!--
+![GitHub Contributors Image](https://contrib.rocks/image?repo=arkapg211002/arkapg211002)
+<div align="center">
+<img src="https://contrib.rocks/image?repo=arkapg211002/arkapg211002" align="center" style="width: 30%"/>
+</div> -->
+
+<!--![Jokes Card](https://readme-jokes.vercel.app/api)-->
+
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api" align="center" style="width: 90%"/>
+</div> 
 
 <!--PROFILE VIEWS-->  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=arkapg211002&&style=flat-square" align="center" style="width: 30%"/>
 </div> 
-
-
