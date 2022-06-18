@@ -356,8 +356,7 @@
 </div>
 </br>
 
-</br>
-</br>
+
 
 <!--SNAKE EATING CONTRIBUTION GRAPH-->
 <div align="center">
@@ -367,7 +366,7 @@
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/output/github-contribution-grid-snake.gif" align="center" style="width: 100%" />
 </div>  
-<br/> 
+</br> 
 </br>
 
 <!--JOKE-->
