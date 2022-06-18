@@ -1,0 +1,23 @@
+name: Pull-request
+
+on:
+  # push:
+  #   branches:
+  #     - main
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Main Workflow 
+    steps:
+      - name: Indepth analysis
+        uses: lowlighter/metrics@latest
+        with:
+         filename: metrics.plugin.followup.indepth.svg
+         token: ${{ secrets.GITHUB_TOKEN }}
+         base: ""
+         plugin_followup: yes
+         plugin_followup_indepth: yes
