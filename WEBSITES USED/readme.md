@@ -13,3 +13,8 @@
 
 <h2>GITHUB BADGES</h2>
 *https://github.com/alexandresanlim/Badges4-README.md-Profile* ~ List of badges </br>
+
+<h2>GITHUB PROJECTS</h2>
+*https://github.com/lowlighter/metrics* ~ Metrics</br>
+*https://github.com/gautamkrishnar/blog-post-workflow* ~Blog post</br>
+
