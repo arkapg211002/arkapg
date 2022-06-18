@@ -68,7 +68,7 @@
 </div>
 
 <table><tr>
-<td valign="top" width="23%">
+<td valign="top" width="20%">
 <!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/arkapg211002/arkapg211002/blob/main/imgonline-com-ua-twotoone-maM214R0M8RtDOt.jpg" alt="PMI" height="55" />
