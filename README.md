@@ -171,13 +171,13 @@
 </div>  
 
 <table><tr>
-<td valign="top" width="33%">
+<td valign="top" width="23%">
 
   <div align="center">
 <img src="https://www.sphinx-solution.com/blog/wp-content/uploads/2016/02/TECH.gif" align="center" style="width: 100%" />
 </div>
   </td>
-<td valign="top" width="20%">
+<td valign="top" width="23%">
 <!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
 <div align="center">  
 <img style="margin: 10px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" height="75" />
