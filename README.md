@@ -87,6 +87,7 @@
 <img src="https://cdn.dribbble.com/users/1681709/screenshots/4735856/gif.gif" align="center" style="width: 100%" />
 </div>
   </td>
+  
   </tr>
 </table>
 </br>
@@ -161,6 +162,39 @@
 </table>
 <br/>
 <br/>
+
+
+
+<!--IDE-->
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/textide.gif" align="center" style="width: 100%" />
+</div>  
+
+<table><tr>
+<td valign="top" width="33%">
+
+  <div align="center">
+<img src="https://www.sphinx-solution.com/blog/wp-content/uploads/2016/02/TECH.gif" align="center" style="width: 100%" />
+</div>
+  </td>
+<td valign="top" width="20%">
+<!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" height="75" />
+<img style="margin: 10px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellijidea" height="75" />
+<img style="margin: 10px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm" height="75" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="codechef" height="75" />  
+  
+
+</div>
+</td>
+
+  </tr>
+</table>
+</br>
+</br>
+  
+
 
 <!--cONNECT WITH ME-->
  <div align="center">
