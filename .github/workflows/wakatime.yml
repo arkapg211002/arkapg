@@ -13,12 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     name: Main Workflow 
     steps:
-      - name: WakaTime
+      - name: Compact display
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
+          filename: metrics.plugin.achievements2.compact.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+             scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
