@@ -1,0 +1,25 @@
+name: Anilist
+
+on:
+  # push:
+  #   branches:
+  #     - main
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Main Workflow 
+    steps:
+      - name: Favorites anime and currently watching
+        uses: lowlighter/metrics@latest
+        with:
+         filename: metrics.plugin.anilist.svg
+         token: NOT_NEEDED
+         base: ""
+         plugin_anilist: yes
+         plugin_anilist_medias: anime
+         plugin_anilist_sections: favorites, watching
+         plugin_anilist_limit: 1
