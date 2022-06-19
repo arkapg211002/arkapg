@@ -14,4 +14,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@c379ef323a0d32800e511926874d893976e400cc
         with:
-          feed_list: "https://myinfoapg211002.blogspot.com/rss.xml"
+          feed_list: "https://myinfoapg211002.blogspot.com/feeds/posts/default"
