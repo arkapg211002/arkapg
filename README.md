@@ -370,6 +370,13 @@
 </br> 
 </br>
 
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
 <!--JOKE-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/textjoke.gif" align="center" style="width: 100%" />
