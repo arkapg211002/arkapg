@@ -370,11 +370,9 @@
 </br> 
 </br>
 
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
 <!--JOKE-->
