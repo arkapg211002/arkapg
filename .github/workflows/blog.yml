@@ -5,6 +5,7 @@ on:
   schedule:
     # Runs 
     - cron: "0 */3 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
