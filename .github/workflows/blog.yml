@@ -1,10 +1,9 @@
 name: Blog Posts
 
 on:
-  # Run workflow automatically
   schedule:
-    # Runs 
-    - cron: "0 */3 * * *"
+    # Runs every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,7 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@c379ef323a0d32800e511926874d893976e400cc
         with:
-          # comma-separated list of RSS feed urls
           feed_list: "https://myinfoapg211002.blogspot.com/rss.xml"
