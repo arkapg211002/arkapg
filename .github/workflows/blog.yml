@@ -3,8 +3,8 @@ name: Blog Posts
 on:
   # Run workflow automatically
   schedule:
-    # Runs every hour, on the hour
-    - cron: '0 * * * *'
+    # Runs 
+    - cron: "0 */3 * * *"
 
 jobs:
   update-readme-with-blog:
