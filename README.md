@@ -372,8 +372,8 @@
 
 <!--## 📺 Latest YouTube Videos-->
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-<!--- [MICROSOFT LEARN STUDENT AMBASSADOR application](https://www.youtube.com/watch?v=YZrQfjwMkCY)
-- [DETERMINATION OF YOUNG'S MODULUS (HOME VERSION)](https://www.youtube.com/watch?v=yPNKbDn9e9s)-->
+- [MICROSOFT LEARN STUDENT AMBASSADOR application](https://www.youtube.com/watch?v=YZrQfjwMkCY)
+- [DETERMINATION OF YOUNG'S MODULUS (HOME VERSION)](https://www.youtube.com/watch?v=yPNKbDn9e9s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
