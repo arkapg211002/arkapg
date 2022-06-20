@@ -23,13 +23,13 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">arkapg211002/CSE_GATE_AND_INTERVIEW</span>
+                                        <span class="repo">arkapg211002/CSE_BOOKS_AND_SOLUTIONS</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7e6b0bf</div>
+                                        <div class="sha">#dd23a5e</div>
                                         <div class="message">Update README.md</div>
                                     </div>
                                 </div>
@@ -43,13 +43,13 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">arkapg211002/CSE_GATE_AND_INTERVIEW</span>
+                                        <span class="repo">arkapg211002/CSE_BOOKS_AND_SOLUTIONS</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ab37be5</div>
+                                        <div class="sha">#5dbd00e</div>
                                         <div class="message">Update README.md</div>
                                     </div>
                                 </div>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2f54dec</div>
-                                        <div class="message">DL Morris Mano sol</div>
+                                        <div class="sha">#4769ba7</div>
+                                        <div class="message">Algorithms CLRS sol</div>
                                     </div>
                                 </div>
                             </section>
