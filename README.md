@@ -108,6 +108,8 @@
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/LAMGUAGES.gif" align="center" style="width: 100%" />
 </div>
+</br>
+
 <table><tr>
 <td align="center" width="33%">
 
@@ -135,8 +137,11 @@
   </tr>
   </table>
   </br>
-  
+  </br>
 <!--Web development-->
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/WEB%20DEV.gif" align="center" style="width: 100%" />
+</div>
 
 </br>
 <table><tr>
@@ -198,6 +203,8 @@
 </table>
 <br/>
 <br/>
+
+<!--Cloud-->
 
 
 
