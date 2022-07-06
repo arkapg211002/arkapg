@@ -172,7 +172,7 @@
 </div>  
 
 <table><tr>
-<td valign="top" width="23%">
+<td align="center" width="23%">
 
   <div align="center">
 <img src="https://www.sphinx-solution.com/blog/wp-content/uploads/2016/02/TECH.gif" align="center" style="width: 100%" />
