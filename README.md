@@ -82,7 +82,7 @@
 </div>
 </td>
   
-<td valign="top" width="33%">
+<td align="center" width="33%">
 
   <div align="center">
 <img src="https://cdn.dribbble.com/users/1681709/screenshots/4735856/gif.gif" align="center" style="width: 100%" />
@@ -205,6 +205,38 @@
 <br/>
 
 <!--Cloud-->
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/CLOUD.gif" align="center" style="width: 100%" />
+</div>
+</br>
+
+<table><tr>
+<td align="center" width="20%">
+<!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="50" />
+<img style="margin: 10px" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure" height="50" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="oci" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="salesforce" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="github actions" height="50" />  
+<!--<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" height="50" />  -->
+</div>
+</td>
+  
+<td align="center" width="33%">
+
+  <div align="center">
+<img src="https://www.iwebscraping.com/images/Financial-Market-Research-&-Analysis1.gif?ssl%20alt=" align="center" style="width: 100%" />
+</div>
+  </td>
+  
+  </tr>
+</table>
+</br>
+</br>
+
+
 
 
 
