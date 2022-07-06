@@ -119,17 +119,17 @@
 <td align="center" width="30%">
 <!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
 <div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="60" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="60" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="60" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="55" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="55" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="55" />  
 <!--<img style="margin: 10px" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" height="50" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodecamp" height="50" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" height="50" />  -->
-<img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="60" />
-<img style="margin: 10px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" height="60" />
-<img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="60" />
-<img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="60" />
+<img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="55" />
+<img style="margin: 10px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" height="55" />
+<img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="55" />
+<img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="55" />
 </div>
 </td>
   </tr>
@@ -147,7 +147,7 @@
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(5).gif" align="center" style="width: 100%" />
 </div>
-  
+  </br>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
@@ -159,7 +159,7 @@
 </div>
 </td>
   
-<td valign="top" width="33%">
+<td align="center" width="33%">
 <div align="center">
 <img src="https://4db32cf36e284b6db016-ad73e30e75b87c0c9aedc3f926a99c84.ssl.cf3.rackcdn.com/wp-content/uploads/2019/11/giphy-6.gif" align="center" style="width: 100%" />
 </div>  
@@ -172,18 +172,18 @@
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(4).gif" align="center" style="width: 100%" />
 </div>  
-  
+  </br>
 <div align="center">  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />  
 <!--<img style="margin: 10px" src="https://th.bing.com/th/id/R.817d6c92eb47961d66e90daac3a49e6e?rik=sB26iv%2fKqpaDJw&riu=http%3a%2f%2ffc02.deviantart.net%2ffs70%2fi%2f2011%2f355%2f9%2f2%2fjava_flurry_icon_by_flakshack-d4jt21r.png&ehk=2DnXeDoVK6cy3e0JGHzgChOjiue4ud3Yz9YvAHQR7YM%3d&risl=&pid=ImgRaw&r=0" alt="Java" height="60" />  -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" />  </br>
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  -->
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />  </br>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />  
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  -->
  
 
