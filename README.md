@@ -140,7 +140,7 @@
 
 </br>
 <table><tr>
-<td valign="top" width="23%">
+<td valign="top" width="33%">
 
 <!-- BACKEND-->
   
@@ -159,13 +159,13 @@
 </div>
 </td>
   
-<td align="center" width="33%">
+<td align="center" width="36%">
 <div align="center">
 <img src="https://4db32cf36e284b6db016-ad73e30e75b87c0c9aedc3f926a99c84.ssl.cf3.rackcdn.com/wp-content/uploads/2019/11/giphy-6.gif" align="center" style="width: 100%" />
 </div>  
 </td>
   
-<td valign="top" width="23%">
+<td valign="top" width="33%">
   
 <!-- FRONTEND-->
 
