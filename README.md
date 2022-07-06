@@ -138,6 +138,7 @@
   </table>
   </br>
   </br>
+  
 <!--Web development-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/WEB%20DEV.gif" align="center" style="width: 100%" />
@@ -236,6 +237,42 @@
 </br>
 </br>
 
+<!--Design-->
+
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/DESIGN.gif" align="center" style="width: 100%" />
+</div>
+</br>
+
+<table><tr>
+<td align="center" width="20%">
+
+  <div align="center">
+<img src="https://i.pinimg.com/originals/3a/ba/b6/3abab6afe878553af574b187e5ef2168.gif" align="center" style="width: 100%" />
+</div>
+  </td>
+
+<td align="center" width="30%">
+<!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" height="75" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="lightroom" height="75" />
+
+<!--<img style="margin: 10px" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodecamp" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" height="50" />  -->
+<!--<img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="55" />
+<img style="margin: 10px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" height="55" />
+<img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="55" />
+<img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="55" /> -->
+</div>
+</td>
+  </tr>
+  </table>
+  </br>
+  </br>
+
 
 
 
@@ -252,7 +289,7 @@
 <img src="https://www.sphinx-solution.com/blog/wp-content/uploads/2016/02/TECH.gif" align="center" style="width: 100%" />
 </div>
   </td>
-<td valign="top" width="23%">
+<td align="center" width="23%">
 <!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
 <div align="center">  
 <img style="margin: 10px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" height="68" />
