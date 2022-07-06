@@ -109,7 +109,7 @@
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/LAMGUAGES.gif" align="center" style="width: 100%" />
 </div>
 <table><tr>
-<td align="center" width="23%">
+<td align="center" width="33%">
 
   <div align="center">
 <img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif" align="center" style="width: 100%" />
