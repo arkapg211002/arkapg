@@ -140,14 +140,14 @@
 
 </br>
 <table><tr>
-<td valign="top" width="33%">
+<td valign="top" width="23%">
 
 <!-- BACKEND-->
   
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(5).gif" align="center" style="width: 100%" />
 </div>
-  </br>
+  </br></br>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
@@ -165,14 +165,14 @@
 </div>  
 </td>
   
-<td valign="top" width="33%">
+<td valign="top" width="23%">
   
 <!-- FRONTEND-->
 
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(4).gif" align="center" style="width: 100%" />
 </div>  
-  </br>
+  </br></br>
 <div align="center">  
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />  
