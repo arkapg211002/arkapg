@@ -32,9 +32,8 @@ jobs:
           github_user_name: arkapg211002
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
-          #svg_out_path: dist/github-contribution-grid-snake.svg
-          svg_out_path: dist/github-snake-dark.svg?palette=github-dark
-          output: dist/github-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
