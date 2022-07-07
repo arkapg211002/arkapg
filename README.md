@@ -8,10 +8,10 @@
 
 <!--iNTRODUCTION-->
 <table align="center"><tr>
-<td><div align="center">
-<img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" align="center" style="width: 90%" />
+<td align="center"><div align="center">
+<img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" align="center" style="width: 50%" />
 </div> </td>
-<td>
+<td align="center">
 <div align="center"><h2><!--<b>I'm ARKAPRATIM, a Web Developer 👨‍💻 Cloud ☁️ and Blockchain ⛓️ enthusiast</b>-->
   
   <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/text%20(6).gif" align="center" style="width: 90%" />
@@ -23,11 +23,11 @@
   </h2></div>
 <div align="left">
   
-  - 💖<b> I like coding and exploring new things  </b>
+ <!-- - 💖<b> I like coding and exploring new things  </b>
   
   - ⚡ <b>Fun fact: I use tabs over spaces</b>
   
-  - 📫 <b>How to reach me **arkapratimghosh2002@gmail.com**</b>
+  - 📫 <b>How to reach me **arkapratimghosh2002@gmail.com**</b> -->
   
 <div>
 </td>
