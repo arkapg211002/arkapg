@@ -507,6 +507,11 @@
 </div> -->
 
 <!--![Jokes Card](https://readme-jokes.vercel.app/api)-->
+<div align="center">
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." align="center" style="width: 100%"/>
+</div> 
+
+
 
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api" align="center" style="width: 100%"/>
