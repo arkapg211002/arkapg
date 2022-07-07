@@ -69,7 +69,7 @@
 </div>
 
 <table><tr>
-<td valign="top" width="20%">
+<td align="center" width="20%">
 <!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/arkapg211002/arkapg211002/blob/main/imgonline-com-ua-twotoone-maM214R0M8RtDOt.jpg" alt="PMI" height="50" />
@@ -99,11 +99,10 @@
   
 
 <!--MY SKILL SET--> 
-<div align="center">
+<h2><div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/textskillset.gif" align="center" style="width: 100%" />
 </div>  
-</br>
-
+</h2>
 <!--lANGUAGES-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/LAMGUAGES.gif" align="center" style="width: 100%" />
