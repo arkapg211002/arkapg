@@ -356,7 +356,7 @@
 </div>
 
 <table><tr>
-<td valign="top" width="20%">
+<td align="center" width="20%">
 <!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
 <div align="center">  
 <img style="margin: 10px" src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" alt="LENOVO" height="49" />
@@ -370,7 +370,7 @@
 </div>
 </td>
   
-<td valign="top" width="33%">
+<td align="center" width="33%">
 
   <div align="center">
 <img src="https://cdn.dribbble.com/users/949964/screenshots/5289721/coffeegif.gif" align="center" style="width: 100%" />
