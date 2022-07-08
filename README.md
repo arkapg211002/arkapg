@@ -545,10 +545,8 @@
 </div> -->
 
 <!--![Jokes Card](https://readme-jokes.vercel.app/api)-->
-<!--Meme-->
-<!--<div align="center">
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." align="center" style="width: 100%"/>
-</div> -->
+
+
 
 </br>
 
@@ -556,10 +554,18 @@
 <img src="https://readme-jokes.vercel.app/api" align="center" style="width: 100%"/>
 </div> </br>
 
+<!--newsfeed-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.rss.svg" align="center" style="width: 100%"/>
 </div> 
+</br>
 
+<!--Meme-->
+<div align="center">
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." align="center" style="width: 70%"/>
+</div> 
+
+<!--ending banner-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/16555454091467120879%20(1).gif" align="center" style="width: 100%"/>
 </div>
