@@ -538,7 +538,7 @@
 
 
 
-<!--END GIF-->
+<!--NOT THE END GIF-->
 <div align="center">
 <img src="https://i.pinimg.com/originals/ef/a9/39/efa9396fe51653bc074f75d2252692d0.gif" align="center" style="width: 100%" />
 </div>  
@@ -551,13 +551,9 @@
 
 <!--![Jokes Card](https://readme-jokes.vercel.app/api)-->
 
-
-
-</br>
-
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api" align="center" style="width: 100%"/>
-</div> </br>
+</div> 
 
 <!--newsfeed-->
 <div align="center">
@@ -572,10 +568,22 @@
 </div>
 
 </br>
+
+<table align="center"><tr>
+  <td align="center" width="60%">
 <div align="center">
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." align="center" style="width: 70%"/>
-</div> 
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." align="center" style="width: 100%"/>
+    </div> </td>
+<td align="center" width="33%">
+  <div align="center">
+<img src="https://media.giphy.com/media/hVlZnRT6QW1DeYj6We/giphy.gif" align="center" style="width: 100%" />
+</div>
+  </td>
+  
+  </tr>
+</table>
 </br>
+  
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tn82asvo8ir4phta5ea0jtcds&unique={true|1|on|yes}) --unique 
      
@@ -585,12 +593,13 @@
 
 https://spotify-recently-played-readme.vercel.app/api?user=io9hcdw12a0aysz2i05i6m7gn&width={width}
 
+SPOTIFY PLAYLIST
 -->
 <table align="center"><tr>
 <td align="center" width="60%">
 <!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
 <div align="center">  
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=io9hcdw12a0aysz2i05i6m7gn&count=4" align="center" style="width: 100%" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=io9hcdw12a0aysz2i05i6m7gn&count=3" align="center" style="width: 100%" />
 
 
 <!--<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />  
