@@ -43,5 +43,48 @@ jobs:
           scripter, packager, explorer, infographile, manager
          plugin_achievements_display: compact
          plugin_achievements_threshold: X
+     - name: Gists
+       uses: lowlighter/metrics@latest
+       with:
+         filename: metrics.plugin.gists.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_gists: yes
+     - name: Licenses with open-source ratio graphs
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.licenses.ratio.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        template: repository
+        repo: arkapg211002
+        plugin_licenses: yes
+        plugin_licenses_setup: npm ci
+        plugin_licenses_legal: no
+        plugin_licenses_ratio: yes
+     - name: Indepth analysis
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.notable.indepth.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_notable: yes
+        plugin_notable_indepth: yes
+        plugin_notable_repositories: yes
+     - name: Favorites anime and currently watching
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.anilist.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_anilist: yes
+        plugin_anilist_medias: anime
+        plugin_anilist_sections: favorites, watching
+        plugin_anilist_limit: 1
+     
+
+
+
+
 
     
