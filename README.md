@@ -453,6 +453,11 @@
 </br>
 
 <div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.notable.indepth.svg" align="center" style="width: 100%" />
+</div>
+</br>
+
+<div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.lines.svg" align="center" style="width: 100%" />
 </div>
 </br>
