@@ -576,6 +576,40 @@
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." align="center" style="width: 70%"/>
 </div> 
 </br>
+
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tn82asvo8ir4phta5ea0jtcds&unique={true|1|on|yes}) --unique 
+     
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tn82asvo8ir4phta5ea0jtcds) --markdown code snippet
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tn82asvo8ir4phta5ea0jtcds&count={count}) --count
+
+https://spotify-recently-played-readme.vercel.app/api?user=io9hcdw12a0aysz2i05i6m7gn&width={width}
+
+-->
+<table align="center"><tr>
+<td align="center" width="60%">
+<!--https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white-->
+<div align="center">  
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=io9hcdw12a0aysz2i05i6m7gn&count=4" align="center" style="width: 100%" />
+
+
+<!--<img style="margin: 10px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN web docs" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" height="50" />  -->
+</div>
+</td>
+  
+<td align="center" width="33%">
+
+  <div align="center">
+<img src="https://i.pinimg.com/originals/8c/9d/12/8c9d126d5406fa1fdfd13bc4427339ed.gif" align="center" style="width: 100%" />
+</div>
+  </td>
+  
+  </tr>
+</table>
+</br>
+
+
 <!--ending banner-->
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/16555454091467120879%20(1).gif" align="center" style="width: 100%"/>
