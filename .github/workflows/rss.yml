@@ -1,0 +1,34 @@
+name: rss feed
+
+on:
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */8 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    - main
+    - output
+    
+  
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+     - name: News from hackernews
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.rss.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_rss: yes
+        plugin_rss_source: https://news.ycombinator.com/rss
+        plugin_rss_limit: 4
