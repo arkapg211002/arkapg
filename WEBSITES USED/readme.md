@@ -19,3 +19,6 @@ https://github.com/lowlighter/metrics ~ Metrics</br>
 https://github.com/gautamkrishnar/blog-post-workflow ~Blog post</br>
 
 https://github.com/topics/github-profile ~ All useful github projects for readme
+
+<h2>SPOTIFY PLAYLIST README</h2>
+https://github.com/JeffreyCA/spotify-recently-played-readme ~ Spotify playlist added using vercel
