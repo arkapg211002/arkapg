@@ -404,7 +404,12 @@
 <table align="center"><tr><td valign="center" width="55%">
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arkapg211002&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="center" style="width: 100%" /></div>  </td>
 <td valign="center" width="50%">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkapg211002&hide_border=true&layout=compact&theme=onedark" align="center" style="width: 100% height:100%" /></div>  </td></tr></table>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkapg211002&hide_border=true&layout=compact&theme=onedark" align="center" style="width: 100% height:100%" /></div>  </td></tr></table></br>
+
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.achievements.compact.svg" align="center" style="width: 100%" />
+</div>  
+<br/> 
 
 <div align="center">
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=arkapg211002&theme=onedark)](https://github.com/arkapg211002/github-profile-trophy)-->
