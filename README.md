@@ -500,8 +500,14 @@
 </div>
 </br>
 
+<!--newsfeed-->
 <div align="center">
-<img src="https://github.com/arkapg211002/arkapg211002/blob/main/skyline.svg" align="center" style="width: 90%" />
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.rss.svg" align="center" style="width: 100%"/>
+</div> 
+</br>
+
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/skyline.svg" align="center" style="width: 100%" />
 </div>
 </br>
 
@@ -555,19 +561,16 @@
 <img src="https://readme-jokes.vercel.app/api" align="center" style="width: 100%"/>
 </div> 
 
-<!--newsfeed-->
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.rss.svg" align="center" style="width: 100%"/>
-</div> 
-</br>
-</br>
+
+
 
 <!--Meme-->
-<div align="center">
+
+<!--<div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/text_gif/LOL.gif" align="center" style="width: 100%"/>
 </div>
 
-</br>
+</br> -->
 
 <table align="center"><tr>
   <td align="center" width="60%">
