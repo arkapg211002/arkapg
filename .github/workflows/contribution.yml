@@ -30,6 +30,6 @@ jobs:
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         template: repository
-        repo: metrics
+        repo: arkapg211002
         plugin_contributors: yes
         plugin_contributors_contributions: yes
