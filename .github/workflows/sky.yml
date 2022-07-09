@@ -30,6 +30,6 @@ jobs:
         token: NOT_NEEDED
         base: ""
         plugin_skyline: yes
-        plugin_skyline_year: 2021
+        plugin_skyline_year: 2022
         plugin_skyline_frames: 120
         plugin_skyline_quality: 1
