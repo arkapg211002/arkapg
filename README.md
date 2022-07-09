@@ -500,11 +500,7 @@
 </div>
 </br>
 
-<!--newsfeed-->
-<div align="center">
-<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.rss.svg" align="center" style="width: 100%"/>
-</div> 
-</br>
+
 
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/main/skyline.svg" align="center" style="width: 100%" />
@@ -526,6 +522,11 @@
 <div align="center">
 <img src="https://github.com/arkapg211002/arkapg211002/blob/output/github-contribution-grid-snake-dark.svg" align="center" style="width: 100%" />
 </div>
+
+<!--newsfeed-->
+<div align="center">
+<img src="https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.rss.svg" align="center" style="width: 100%"/>
+</div> 
 
 </br> 
 </br>
