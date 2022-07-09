@@ -1,0 +1,33 @@
+name: featured repo
+
+on:
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */8 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    - main
+    - output
+    
+  
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+     - name: Featured repositories
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.repositories.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_repositories: yes
+        plugin_repositories_featured: lowlighter/metrics
