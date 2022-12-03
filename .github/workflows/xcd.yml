@@ -1,0 +1,36 @@
+name: skyline graph
+
+on:
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */8 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    - main
+    - output
+    
+  
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+     - name: XKCD of the day
+       uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.screenshot.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_screenshot: yes
+        plugin_screenshot_title: XKCD of the day
+        plugin_screenshot_url: https://xkcd.com
+        plugin_screenshot_selector: "#comic img"
+
