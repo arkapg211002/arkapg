@@ -13,6 +13,7 @@ https://www.photoroom.com/white-background/ ~ Make image background white</br>
 
 <h2>GITHUB BADGES</h2>
 https://github.com/alexandresanlim/Badges4-README.md-Profile ~ List of badges </br>
+https://github.com/Ileriayo/markdown-badges ~ More badges </br>
 
 <h2>GITHUB PROJECTS</h2>
 https://github.com/lowlighter/metrics ~ Metrics</br>
